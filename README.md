@@ -16,7 +16,7 @@ Based on Crunchbase startup investment data.
 Startups with more funding, strong networks, and clear milestones are more likely to be acquired.
 
 
-# Run Locally
+## Run Locally
 
 To run this application on your local machine, follow these steps:
 - **Please create a venv (virtual environment) before installation**

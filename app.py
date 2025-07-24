@@ -73,7 +73,10 @@ else:
 
 st.markdown(
     "—\n"
-    "Built by [Kushagra Shukla](https://linkedin.com/in/kushu30) • "
+    "[GitHub Repository](https://github.com/kushu30/startupsuccess) • "
+    "Built by Kushagra Shukla • "
+    "[LinkedIn](https://linkedin.com/in/kushu30) • "
     "[GitHub](https://github.com/kushu30) • "
     "[Portfolio](https://kushu.vercel.app)"
 )
+
